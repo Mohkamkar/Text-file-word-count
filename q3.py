@@ -1,3 +1,5 @@
+# code that takes the output from Q1 or Q2 as input and outputs the word with the highest count.
+
 #import q2.py
 
 import q2       
