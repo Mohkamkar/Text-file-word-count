@@ -1,3 +1,8 @@
+# Write code in your favorite programming language to output count of each word found in ‘sample.txt’ file.
+# The count should represent the number of times a word appears in the text. 
+# Your code can implement a brute force approach to count the words
+# -	Input: String or file path to ‘sample.txt’
+# -	Output: words and their count
 
 # Read file.txt
 with open('sample.txt', 'r') as file:
